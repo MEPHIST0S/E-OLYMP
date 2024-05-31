@@ -1,3 +1,5 @@
+#Solution - 1 (65%)
+"""
 k = int(input())
 n = 1
 
@@ -8,3 +10,4 @@ while sum(n) % k != 0:
     n += 1
 
 print(n)
+"""
