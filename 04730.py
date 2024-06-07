@@ -1,3 +1,4 @@
+#Recursive (72%)
 def Fibb(n):
     if n == 0:
         return 1
@@ -8,3 +9,5 @@ def Fibb(n):
 
 n = int(input())
 print(Fibb(n))
+
+#
