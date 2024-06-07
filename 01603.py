@@ -1,3 +1,4 @@
+#Solution - 1
 n = int(input())
 sumd = 0
 
@@ -9,3 +10,13 @@ while n > 0:
     n = n//10
 
 print(sumd)
+
+#Solution - 2
+n = input()
+total = 0
+
+for i in n:
+    if i != "-":
+        total += int(i)
+
+print(total)
