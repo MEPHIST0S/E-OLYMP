@@ -1,2 +1,2 @@
 # E-olymp
-E-olymp task solutions in Python
+E-OLYMP TASKS SOLUTIONS IN PYTHON.
